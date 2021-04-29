@@ -1,6 +1,10 @@
 # hello-world
 pour essai creation repositoty
 
+3) le J 29 avril 2021
+fait modification du lien https avec url modifié
+
+
 2)le M 28 avril 2021
 fait un push de ce dossier avec ajout du fichier "pour essaie-testResults - UserRepositoryTest.html
 (ce test vient du P2 , mais n'est pas utille dans ce repo)
